@@ -1,3 +1,5 @@
+> **Moved.** This plugin was merged into [`plugins/model-policy`](https://github.com/heliowap/opencode-plugins/tree/main/plugins/model-policy). Install: `opencode plugin add 'github:heliowap/opencode-plugins#main::path:plugins/model-policy'`. This repository is archived.
+
 # opencode-v2-model-routes
 
 OpenCode 2 plugin that keeps OpenAI and Anthropic models in the model catalog
